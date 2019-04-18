@@ -6,3 +6,5 @@
 [Mockup](https://github.com/smotruk/tritpoproject/tree/master/Mockup)
 
 [lr3](https://github.com/smotruk/tritpoproject/blob/master/lr3.md)
+
+[DOC](https://github.com/smotruk/tritpoproject/blob/master/Doc.md)
